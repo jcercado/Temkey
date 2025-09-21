@@ -27,7 +27,6 @@
     "expiresAt": "2025-09-30",
     "allowOffline": true
   },
-  
   {
     "id": "fe6a9a79e5cfa966",
     "username": "Colombia",
@@ -40,6 +39,13 @@
     "username": "pantera",
     "password": "panterard123",
     "expiresAt": "2025-10-30",
+    "allowOffline": true
+  },
+  {
+    "id": "fe6a9a79e5cfa966",
+    "username": "zenk",
+    "password": "zenk2025*",
+    "expiresAt": "2025-09-22",
     "allowOffline": true
   }
 ]
