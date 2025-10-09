@@ -47,5 +47,12 @@
     "password": "Denivip2025",
     "expiresAt": "2025-10-30",
     "allowOffline": true
+  },
+  {
+    "id": "b10ebeb8179341ad",
+    "username": "test2",
+    "password": "test2",
+    "expiresAt": "2025-10-10",
+    "allowOffline": true
   }
 ]
