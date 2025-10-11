@@ -50,9 +50,9 @@
   },
   {
     "id": "b10ebeb8179341ad",
-    "username": "test2",
-    "password": "test2",
-    "expiresAt": "2025-10-10",
+    "username": "prueba",
+    "password": "prueba123*",
+    "expiresAt": "2025-10-12",
     "allowOffline": true
   }
 ]
