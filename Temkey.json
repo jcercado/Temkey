@@ -7,31 +7,10 @@
     "allowOffline": false 
   },
   {
-    "id": "1f404541376e9691",
-    "username": "user150",
-    "password": "user150*",
-    "expiresAt": "2025-11-27",
-    "allowOffline": true
-  },
-  {
     "id": "e62189b5efff45d7",
     "username": "Gustavo",
     "password": "gustavo123*",
     "expiresAt": "2025-10-30",
-    "allowOffline": true
-  },
-  {
-    "id": "6827029e9c1e0e59",
-    "username": "pruebaimei",
-    "password": "prueba123",
-    "expiresAt": "2025-10-18",
-    "allowOffline": true
-  },
-  {
-    "id": "6571e9ed61c3fe6a",
-    "username": "edwincelis1",
-    "password": "edwin12345",
-    "expiresAt": "2025-10-18",
     "allowOffline": true
   },
   {
