@@ -33,5 +33,13 @@
     "password": "prueba123*",
     "expiresAt": "2025-11-12",
     "allowOffline": true
+  },
+  
+  {
+    "id": "c0dbb7afd5ca40b1",
+    "username": "argent",
+    "password": "argen123",
+    "expiresAt": "2025-11-30",
+    "allowOffline": true
   }
 ]
